@@ -159,3 +159,35 @@ body {
 	flex-grow: 1;
 	flex-basis: 300px;
 }
+
+/****************
+refer page
+*****************/
+.main-form-2 {
+	width: 1000;
+	height: 300px;
+	background-color: #00ACC1;
+	margin: auto;
+	margin-top: 75px;
+	box-shadow: 1px 8px 20px 3px rgba(50, 50, 50, 0.61);
+	border-radius: 4px;
+	text-align: center;
+}
+
+.section4 {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	align-items: flex-start;
+}
+
+.column-small {
+	height: 250px;
+	width: 350px;
+	background-color: #009688;
+	border-radius: 2px;
+	box-shadow: 1px 8px 20px 3px rgba(50, 50, 50, 0.61);
+	margin: auto;
+	margin-top: 35px;
+	margin-bottom: 20px;
+}
